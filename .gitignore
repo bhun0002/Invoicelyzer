@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PDF samples or test output
+sample_pdfs/
+real_invoices/
+*.pdf
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# Python environment files
+*.env
+.env/
+
+# Backup files
+*~
+*.bak
