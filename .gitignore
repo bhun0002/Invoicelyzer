@@ -5,6 +5,8 @@ __pycache__/
 
 # Virtual environment
 .venv/
+.donut-env/
+donut-env/
 env/
 venv/
 
